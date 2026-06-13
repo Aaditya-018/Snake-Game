@@ -26,25 +26,10 @@ A classic Snake Game developed in Java using Swing and AWT. Control the snake, e
 | ← | Move Left |
 | → | Move Right |
 
-## How to Run
 
 ### Prerequisites
 
 - Java JDK 8 or higher
-
-### Compile
-
-```bash
-javac *.java
-```
-
-### Run
-
-```bash
-java SnakeGame
-```
-
-> If your main class has a different name, replace `SnakeGame` with your actual main class name.
 
 ## Gameplay
 
